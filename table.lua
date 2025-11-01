@@ -1,7 +1,6 @@
-``` -- table Updated
 shared.Saved = {
     ["Binds"] = {
-        ['Toggle'] = "None",
+        ['Toggle'] = "None", -- Keybind
         ['Camlock Toggle'] = "None",
         ['Triggerbot'] = "None",
         ['Visuals'] = "None",
