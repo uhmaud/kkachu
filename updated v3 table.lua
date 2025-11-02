@@ -2,7 +2,7 @@ shared.Saved = {
     ['Silent'] = {
         ['Enabled'] = true,
         ['Mode'] = "Auto", -- Target // Auto
-        ['Activation Bind'] = "", -- TARGET BIND
+        ['Activation Bind'] = "None", -- TARGET BIND // TYPE "NONE" IF YOUR MODE IS AUTO
         ['HitPart'] = "ClosestPoint", -- Closest Point , Head 
 
     ['Silent Settings'] = {
