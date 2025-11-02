@@ -1,5 +1,5 @@
 shared.Saved = {
-    ['Silent'] = {
+    ['Silent'] = { -- 느금마 가짬자 , 카이사짬자 , 얀말락짬자 , 카아라짬자 , 자라얌짬자 , 자수경 느금마짬자
         ['Enabled'] = true,
         ['Mode'] = "Auto", -- Target // Auto
         ['Activation Bind'] = "None", -- TARGET BIND // TYPE "NONE" IF YOUR MODE IS AUTO
@@ -169,13 +169,4 @@ shared.Saved = {
             ['Spread'] = 0.25, ['Random'] = { ['Min'] = 0.64, ['Max'] = 0.80 }, -- SPREAD
         },
     },
-
-    ['Movement Modifications'] = {
-        ['Speed Modifications'] = {
-            ['Enabled'] = true,
-            ['Normal'] = { ['Multiplier'] = 1.08 }, -- WALKING
-            ['Reloading'] = { ['Multiplier'] = 1.1 }, -- WHILE RELOADING
-            ['Shooting'] = { ['Multiplier'] = 1.1 } -- WHILE SHOOTING
-        }
-    }
 }
